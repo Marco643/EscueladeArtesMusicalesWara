@@ -176,8 +176,6 @@
             </div>
         </div>
     </div>
- 
-    
 <div class="row ">
                 <div class="col-md-4 mb-3">
                     <div class="card course-card h-100">
