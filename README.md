@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -37,8 +37,7 @@
                     </li>
                          <li class="nav-item">
                         <a class="nav-link" href="#docentes">Docentes</a>
-                    </li>
-                    </li>
+                         </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#contacto">Contacto</a>
                     </li>
@@ -554,5 +553,3 @@
             observer.observe(img);
         });
     </script>
-</body>
-</html>
