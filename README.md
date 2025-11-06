@@ -46,7 +46,6 @@
             </div>
         </div>
     </nav>
-
     <section id="inicio" class="hero-section">
         <div class="container">
             <h1 class="display-3 fw-bold mb-4">Escuela de Artes Musicales Wara</h1>
@@ -59,7 +58,6 @@
         <i class="fas fa-music music-note note-1"></i>
         <i class="fas fa-guitar music-note note-2"></i>
     </section>
-
     <section id="nosotros" class="py-5 bg-light">
         <div class="container">
             <h2 class="text-center section-title">Sobre Nosotros</h2>
@@ -112,7 +110,6 @@
                 </div>
             </div>
         </div>
-
         <div class="container py-5">
             <div class="row text-center">
                 <div class="col-md-4 mb-5">
@@ -139,7 +136,6 @@
             </div>
         </div>
     </section>
-
     <section id="cursos" class="py-5 bg-light">
         <div class="container">
             <h2 class="text-center section-title">Nuestros Cursos</h2>
@@ -162,7 +158,6 @@
                         </div>
                     </div>
                 </div>
-                
         <div class="col-md-4 mb-3">
             <div class="card course-card h-100">
                 <img src="https://media.istockphoto.com/id/517343636/es/foto/sudam%C3%A9rica-charango-lute.jpg?s=612x612&w=0&k=20&c=t4Ozf_1eHKx0JOxrrM0dVDcHqxL-c67kcZnAOmDsb8w=" class="card-img-top" alt="Curso de charango">
@@ -201,7 +196,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-md-4 mb-3">
                     <div class="card course-card h-100">
                         <img src="imagenes/canto1.jpg" class="card-img-top" alt="Curso de charango">
@@ -220,8 +214,6 @@
                     </div>
                 </div>
     </div>
-            
-
            <div class="container horarios-container">
         <button class="btn btn-primary btn-horario" type="button" data-bs-toggle="collapse" data-bs-target="#horariosCollapse">
              Ver Horarios Disponibles
@@ -242,16 +234,13 @@
                     <small class="text-muted">Lunes a Viernes</small>
                 </div>
             </div>
-
         </div>
         </div>
     </section>
-
     <section id="galeria" class="py-5">
         <div class="container">
             <h2 class="text-center section-title">Galería</h2>
            <h5 class="text-center mb-5">Momentos especiales en nuestra escuela</h5>
-            
             <div class="row">
                 <div class="col-md-4 col-sm-6 mb-4">
                     <img src="imagenes/imagen6.jpg" alt="Concierto estudiantil" class="img-fluid rounded gallery-img">
@@ -286,7 +275,6 @@
             </div>
         </div>
     </section>
-
     <section id="testimonios" class="py-5 bg-light">
         <div class="container">
             <h2 class="text-center section-title">Testimonios</h2>
@@ -309,7 +297,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-md-4 mb-4">
                     <div class="card h-100">
                         <div class="card-body testimonial-card">
@@ -327,7 +314,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-md-4 mb-4">
                     <div class="card h-100">
                         <div class="card-body testimonial-card">
@@ -348,14 +334,10 @@
             </div>
         </div>
     </section>
-    
-
-
      <section id="testimoniosdelosestudiantes" class="py-5 bg-light">
         <div class="container">
             <h2 class="text-center section-title">Estudiantes</h2>
             <h5 class="text-center mb-5">Lo que dicen nuestros estudiantes y sus experiencias sobre La Escuela De Artes Musicales Wara</h5>
-            
             <div class="row">
                 <div class="col-md-4 mb-4">
                     <div class="card h-100">
@@ -374,7 +356,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-md-4 mb-4">
                     <div class="card h-100">
                         <div class="card-body testimonial-card">
@@ -392,7 +373,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-md-4 mb-4">
                     <div class="card h-100">
                         <div class="card-body testimonial-card">
@@ -413,7 +393,6 @@
             </div>
         </div>
     </section>
-
     <section id="docentes" class="py-5 bg-light">
         <div class="container">
             <h2 class="text-center section-title">Docentes</h2>
@@ -436,7 +415,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-md-4 mb-4">
                     <div class="card h-100">
                         <div class="card-body testimonial-card">
@@ -457,13 +435,10 @@
             </div>
         </div>
     </section>
-
-
     <section id="contacto" class="py-5">
         <div class="container ">
             <h2 class="text-center section-title">Contacto</h2>
             <h5 class="text-center">¡Contáctanos para más información!</h5>
-            
             <div class="row">
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <h4>Información de contacto</h4>
@@ -499,7 +474,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-lg-6">
                     <div class="card shadow">
                         <div class="card-body">
@@ -512,7 +486,6 @@
                 </div>
             </div>
         </div>
-    
     </section>
         <div class="container-fluid p-0">
             <iframe src="https://www.google.com/maps/embed?pb=!4v1759211185414!6m8!1m7!1sbn6_YlsS-9b35DtnJOSVew!2m2!1d-17.96476389120271!2d-67.10617411903087!3f15.643760188774195!4f11.373878003282897!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -541,7 +514,6 @@
                 <div class="col-md-4">
                     <h5 class="text-white mb-4">¡Contactanos!</h5>
                     <p>Contactanos para recibir información sobre nuestros cursos y eventos.</p>
-                    
                     <h5>¡Siguenos En Nuestras Redes Sociales!</h5>
                     <div class="d-flex">
                         <a href="https://www.facebook.com/people/Escuela-De-Artes-Musicales-Wara/100063487452488/" class="social-icon"><i class="fab fa-facebook-f"></i></a>
@@ -559,19 +531,16 @@
             </div>
         </div>
     </footer>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
                 e.preventDefault();
-                
                 document.querySelector(this.getAttribute('href')).scrollIntoView({
                     behavior: 'smooth'
                 });
             });
         });
-    
         const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
@@ -580,7 +549,6 @@
                 }
             });
         }, { threshold: 0.1 });
-        
         document.querySelectorAll('.gallery-img').forEach(img => {
             img.style.opacity = 0;
             img.style.transform = 'scale(0.9)';
